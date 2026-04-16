@@ -79,8 +79,8 @@ logger.setLevel(logging.INFO)
 # ----------------- CONFIG -----------------s
 API_ID    = 27896193
 API_HASH  = "38a5463cb8bf980d4519fba0ced298c2"
-OWNER_ID = 8095928549
-SESSION_STRING = "1BVtsOIUBu13euD5tfkmBqcBLfmczdf_EaC68lbIpnM9OSvEBvyuv8Tn6ix7Sf9ur0LWYu48DVfDWVRGmaKlR9tUXUN1rqQpA8tvd-Yt6y6mFPhn--PodunB8-YQXaXLT9Ro3tmzjZdqhsvb1ArQ8K4Ua1FlohMmrJWJdv_Q44Fq_hnVhXCcLLsY2pV_M-a79wqr51yRxHemw1AezqvL-PRNmIpsZlfu1z5jcd-R4kYoYAFSFQDmmUXsZ-9QJTIqlrzFTng5BqsCWHtu70QdRqkc8lt24IQmqqAlwAfHNk4cAydXM7gL7xPTDdrzCfU8GAGimc7scfV-hPjgzQdDUXeXOUjN5zk0="
+OWNER_ID = 1735609829
+SESSION_STRING = "1BVtsOIUBuy55sEoYH8-MCllqY8Fymtmlhsq4mYEXPyZCe_ZN43T0-efC28XF3a5Z0NiIX0NEe3bsmcoeZeo_tApEfZgN4U-1dTUckxfi2-EhX5NIFdbAIxCPmt9YMHKTa7SHwd1GNT0gz4NBLo9b6dCBdgIs_a0Ss_sTvOpgiMz_2XkALJyLBBPwfUMYhViTmQvd_a85EJyzgvDrd2onfnHnYVYkos5iGNXy4Ml8swaZYAe3yrt8x4LNZngbVThh933H-C03BOKc_gb3oZ-jM8v699nHpdYp2w6A0Hi7bifKCzXaEEBSM-s7Mmw3apMkok78ZXAtHuYEpAsQnJ78NDO_mr6_fCA="
 MUTED_FILE = "muted.json"
 STATE_FILE = "state.json"
 GBAN_FILE = "gban_list.json"
